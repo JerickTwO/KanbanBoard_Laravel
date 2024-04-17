@@ -1,9 +1,13 @@
 
     <body>
         <div class="board">
-            <form id="todo-form">
+            <form id="todo-form" method="POST">
+            @csrf
                 <input type="text" placeholder="New TODO..." id="todo-input" />
-                <button type="submit">Add +</button>
+                <button type="submit">
+                    <a href="{{route('')}}" method()>
+                        Add +
+                    </a></button>
             </form>
             <div class="lanes">
                 <div class="swim-lane" id="todo-lane">
@@ -171,5 +175,8 @@
             background-color: #ffffff !important;
             color: #151515;
 
-        }    
+        }
+        a{
+            te
+        }
     </style>
