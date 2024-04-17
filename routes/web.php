@@ -15,3 +15,7 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+Route::get('index', function () {
+    return view('/task/index');
+})->name('index');
+
