@@ -68,6 +68,8 @@ public/: Contiene los activos públicos como imágenes, CSS y JavaScript.<br>
 resources/: Contiene las vistas Blade, archivos de idioma y activos compilados.<br>
 routes/: Contiene los archivos de rutas de la aplicación.<br>
 webpack.mix.js: Archivo de configuración para Laravel Mix.<br>
+
+<!--
 **Contribuciones**
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir:
 
@@ -75,11 +77,11 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir
 Crea una rama con tu nueva característica (git checkout -b feature/nueva-caracteristica).
 Realiza tus cambios y commitea (git commit -am 'Añadir nueva característica').
 Sube tus cambios a la rama (git push origin feature/nueva-caracteristica).
-
+-->
 Contacto
 Para cualquier consulta o sugerencia, contactame a:
 
-Nombre: Jerick Toro
+Nombre: Jerick Toro<br>
 Correo Electrónico: jerickjjtm774@gmail.com
 
 ## Imagen del proyecto
