@@ -27,7 +27,7 @@ Sigue estos pasos para instalar y configurar el proyecto:
 1. **Clonar el Repositorio**
 
     ```bash
-       git clone [https://github.com/tu_usuario/kanbanboard.git](https://github.com/JerickTwO/KanbanBoard_Laravel.git)
+       git clone https://github.com/JerickTwO/KanbanBoard_Laravel.git
        cd KanbanBoard_Laravel
    
 2. **Instalar Dependencias de Composer**
@@ -35,21 +35,19 @@ Sigue estos pasos para instalar y configurar el proyecto:
    ```bash
     npm install
     npm run dev
-    Configurar el Archivo .env
 
 
 
 3. **Edita el archivo .env para configurar la conexión a tu base de datos MySQL:**
 
     ```plaintext
-
         DB_CONNECTION=mysql
         DB_HOST=127.0.0.1
         DB_PORT=3306
         DB_DATABASE=kanbanboard
         DB_USERNAME=root
         DB_PASSWORD=
-
+    
 4. **Migrar la Base de Datos**
 
     ```bash
