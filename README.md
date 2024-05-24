@@ -1,4 +1,4 @@
-# KanbanBoard CRUD Application
+# KanbanBoard + Drag and Drop
 
 ## Descripción del Proyecto
 
