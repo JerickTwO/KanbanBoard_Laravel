@@ -1,5 +1,4 @@
 # KanbanBoard + Drag and Drop
-
 ## Descripción del Proyecto
 
 Este proyecto es una aplicación de KanbanBoard, desarrollada utilizando Laravel y MySQL para la gestión del backend, y AJAX para la interacción dinámica en el frontend. La aplicación permite a los usuarios crear, leer, actualizar y eliminar (CRUD) tarjetas y columnas en un tablero Kanban, facilitando la organización de tareas y proyectos.
