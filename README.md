@@ -60,7 +60,7 @@ Sigue estos pasos para instalar y configurar el proyecto:
 Una vez que el servidor está en funcionamiento, puedes acceder a la aplicación en http://localhost:8000. 
 <br>Regístrate o inicia sesión para empezar a crear y gestionar tus tableros Kanban.
 
-**Estructura del Proyecto**
+**Estructura del Proyecto**<br>
 app/: Contiene los controladores, modelos y servicios de la aplicación.<br>
 database/: Contiene las migraciones y seeders.<br>
 public/: Contiene los activos públicos como imágenes, CSS y JavaScript.<br>
